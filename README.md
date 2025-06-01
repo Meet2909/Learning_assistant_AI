@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db2911f1-93cd-4843-ba1d-84166c58eace)# Learning_assistant_AI
+# Learning_assistant_AI
 AI assisted learning assistant
 This is a web based AI learning assistant based on Java. Creating this project we have focused on creating a personalized learning experience for users.
 This project helps students to not entirely rely on AI for studies but to get it aids in the form of personalised quizzes that are tailored to the students proficiency in each subject.
